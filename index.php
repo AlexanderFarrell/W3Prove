@@ -1,2 +1,2 @@
 <?php
-echo "This Works";
+include("template.php");

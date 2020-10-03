@@ -11,10 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Added composer file.">
-      <change afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_App/ApplicationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/_App/ApplicationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_View/BreadcrumbItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/_View/BreadcrumbItem.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +78,7 @@
       <workItem from="1601445052990" duration="3329000" />
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
-      <workItem from="1601749862219" duration="10401000" />
+      <workItem from="1601749862219" duration="10463000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -98,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601760096079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added composer file.">
+      <created>1601760293582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601760293582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
