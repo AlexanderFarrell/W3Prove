@@ -1,6 +1,6 @@
 <?php
 
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Controller\PageController.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Controller/PageController.php');
 
 class ViewCartController extends PageController
 {
@@ -11,6 +11,6 @@ class ViewCartController extends PageController
 
     public function GetDisplayScript()
     {
-        return '_ViewCart\viewCart.php';
+        return '_ViewCart/viewCart.php';
     }
 }

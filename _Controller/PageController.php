@@ -7,6 +7,6 @@ abstract class PageController
     abstract public function GetDisplayScript();
 
     public function Display(){
-        echo file_get_contents('_Controller\\' . $this->GetDisplayScript());
+        echo file_get_contents('/_Controller/' . $this->GetDisplayScript());
     }
 }

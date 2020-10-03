@@ -1,7 +1,7 @@
 <?php
 
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Model\BrowseCategory.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Controller\PageController.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Model/BrowseCategory.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Controller/PageController.php');
 
 class BrowseController extends PageController
 {
@@ -32,6 +32,6 @@ class BrowseController extends PageController
 
     public function GetDisplayScript()
     {
-        return '\_Browse\browse.php';
+        return '/_Browse/browse.php';
     }
 }

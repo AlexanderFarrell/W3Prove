@@ -1,8 +1,8 @@
 <?php
 
-require_once '_View\HeaderPage.php';
-require_once '_View\TitleDisplay.php';
-require_once '_View\Breadcrumb.php';
+require_once '/_View/HeaderPage.php';
+require_once '/_View/TitleDisplay.php';
+require_once '/_View/Breadcrumb.php';
 
 class TemplateManager
 {

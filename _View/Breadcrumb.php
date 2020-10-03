@@ -1,9 +1,9 @@
 <?php
 
 require_once('BreadcrumbItem.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Data\CatalogManager.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Model\Product.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Model\BrowseCategory.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Data/CatalogManager.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Model/Product.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Model/BrowseCategory.php');
 
 class Breadcrumb
 {

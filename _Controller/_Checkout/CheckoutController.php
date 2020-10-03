@@ -1,6 +1,6 @@
 <?php
 
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Controller\PageController.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Controller/PageController.php');
 
 class CheckoutController extends PageController
 {

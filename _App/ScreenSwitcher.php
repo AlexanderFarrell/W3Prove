@@ -1,11 +1,11 @@
 <?php
 
 require_once('ApplicationController.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Controller\_Browse\BrowseController.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Controller\_Home\HomeController.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Controller\_Checkout\CheckoutController.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Controller\_ViewCart\ViewCartController.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\_Data\CatalogManager.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Controller/_Browse/BrowseController.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Controller/_Home/HomeController.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Controller/_Checkout/CheckoutController.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Controller/_ViewCart/ViewCartController.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_Data/CatalogManager.php');
 
 if (isset($_GET['newscreen'])){
     $selection = $_GET['newscreen'];
