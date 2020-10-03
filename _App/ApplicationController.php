@@ -5,7 +5,7 @@ require_once('_Controller/_Home/HomeController.php');
 class ApplicationController
 {
     private static $currentScreen;
-    const templatePhp = "index.php";
+    const templatePhp = "template.php";
 
     public static function SwitchScreen($newPageController) {
         //if (is_subclass_of($newPageController, 'Page Controller')){
@@ -23,7 +23,7 @@ class ApplicationController
             //$loadedTemplate = file_get_contents(self::templatePhp);
 
             //echo file_get_contents(self::templatePhp);
-            //include("../index.php");
+            //include("../template.php");
 
             //echo $loadedTemplate;
 

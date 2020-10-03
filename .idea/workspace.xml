@@ -10,8 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Initial Commit">
+    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Added composer file.">
+      <change afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_App/ApplicationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/_App/ApplicationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_View/BreadcrumbItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/_View/BreadcrumbItem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +38,16 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1iDbLDxGa7RF7Mvg8MuhG8ExbrD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -75,7 +82,7 @@
       <workItem from="1601445052990" duration="3329000" />
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
-      <workItem from="1601749862219" duration="10146000" />
+      <workItem from="1601749862219" duration="10401000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -84,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601758594577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added composer file.">
+      <created>1601760096079</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601760096079</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,8 +116,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Added composer file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added composer file." />
   </component>
   <component name="WindowStateProjectService">
     <state x="989" y="343" key="#PHP" timestamp="1601447937984">
@@ -134,10 +150,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1113" y="423" key="NewPhpClassDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601754310219" />
-    <state x="1117" y="624" key="NewPhpFileDialog" timestamp="1601747714796">
+    <state x="1117" y="624" key="NewPhpFileDialog" timestamp="1601760265865">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1117" y="624" key="NewPhpFileDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601747714796" />
+    <state x="1117" y="624" key="NewPhpFileDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601760265865" />
     <state x="782" y="345" key="SettingsEditor" timestamp="1601758840988">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
