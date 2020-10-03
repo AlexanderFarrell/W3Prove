@@ -1,6 +1,6 @@
 <?php
 
-//require_once('_View\HeaderPage.php');
+require_once('_View\HeaderPage.php');
 //require_once('_App\ApplicationController.php');
 //require_once('_App\TemplateManager.php');
 //require_once ('_App\ScreenSwitcher.php');
@@ -17,7 +17,7 @@
 <!DOCTYPE HTML>
 <html>
     <?php
-        //TemplateManager::GetHeader()->DisplayHeader();
+        TemplateManager::GetHeader()->DisplayHeader();
     ?>
 <body>
     <div class ="container">
