@@ -2,5 +2,5 @@
 try {
     include("template.php");
 } catch (Exception $e){
-    echo $e;
+    echo $e->getMessage();
 }
