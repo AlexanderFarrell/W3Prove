@@ -1,0 +1,32 @@
+body {
+    background-color: burlywood;
+}
+
+.mainBackground {
+    background-color: darkgoldenrod;
+}
+
+.breadcrumbItem {
+    cursor: pointer;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'Forum', cursive;
+}
+
+.breadcrumbItem:hover {
+    font-weight: bold;
+}
+
+.titleDisplayTitle {
+    text-align: center;
+    font-family: 'Forum', cursive;
+}
+
+.titleDisplaySubtitle {
+    text-align: center;
+    font-family: 'Forum', cursive;
+}
+
+a {
+    color: black;
+}

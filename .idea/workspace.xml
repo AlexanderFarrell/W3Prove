@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iDbLDxGa7RF7Mvg8MuhG8ExbrD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CS313 2\W3 Prove\_Controller\_Browse" />
+      <recent name="C:\CS313 2\W3 Prove\_Controller\_Checkout" />
+      <recent name="C:\CS313 2\W3 Prove\_Controller\_ConfirmationPage" />
+      <recent name="C:\CS313 2\W3 Prove\_Controller\_Home" />
+      <recent name="C:\CS313 2\W3 Prove\_Controller\_ViewCart" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="" />
+      <created>1601445051915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601445051915</updated>
+      <workItem from="1601445052990" duration="3329000" />
+      <workItem from="1601514672968" duration="827000" />
+      <workItem from="1601733656274" duration="15261000" />
+      <workItem from="1601749862219" duration="8695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="989" y="343" key="#PHP" timestamp="1601447937984">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="989" y="343" key="#PHP/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601447937984" />
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601753116893">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601753116893" />
+    <state x="1086" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1601754732772">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="416" key="#com.intellij.ide.util.MemberChooser/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601754732772" />
+    <state x="1094" y="480" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601754334733">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1094" y="480" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601754334733" />
+    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601736021574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601736021574" />
+    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1601758529303">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="455" key="FileChooserDialogImpl/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601758529303" />
+    <state x="1113" y="423" key="NewPhpClassDialog" timestamp="1601754310219">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1113" y="423" key="NewPhpClassDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601754310219" />
+    <state x="1117" y="624" key="NewPhpFileDialog" timestamp="1601747714796">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1117" y="624" key="NewPhpFileDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601747714796" />
+    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601758563144">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601758563144" />
+    <state x="-2412" y="1058" width="1883" height="817" maximized="true" key="dock-window-1" timestamp="1601750093578">
+      <screen x="-1920" y="1069" width="1920" height="1020" />
+    </state>
+    <state x="-2412" y="1058" width="1883" height="817" maximized="true" key="dock-window-1/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601750093578" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1601752707344">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601752707344" />
+  </component>
+</project>
