@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Added error handler">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
-    </list>
+    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Fixed paths" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
       <workItem from="1601445052990" duration="3329000" />
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
-      <workItem from="1601749862219" duration="11212000" />
+      <workItem from="1601749862219" duration="11560000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -144,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601760701303</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added error handler">
+      <created>1601761111767</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601761111767</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed paths">
+      <created>1601761429707</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601761429707</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +178,8 @@
     <MESSAGE value="Added composer file." />
     <MESSAGE value="Testing" />
     <MESSAGE value="Added error handler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added error handler" />
+    <MESSAGE value="Fixed paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed paths" />
   </component>
   <component name="WindowStateProjectService">
     <state x="989" y="343" key="#PHP" timestamp="1601447937984">
