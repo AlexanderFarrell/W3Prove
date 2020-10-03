@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Added composer file.">
+    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Testing">
+      <change beforePath="$PROJECT_DIR$/_App/TemplateManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/_App/TemplateManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +80,7 @@
       <workItem from="1601445052990" duration="3329000" />
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
-      <workItem from="1601749862219" duration="10539000" />
+      <workItem from="1601749862219" duration="10732000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -108,7 +110,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601760343050</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added composer file.">
+      <created>1601760418694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601760418694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Testing">
+      <created>1601760468956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601760468957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Testing">
+      <created>1601760506804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601760506804</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +152,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added composer file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added composer file." />
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="989" y="343" key="#PHP" timestamp="1601447937984">
