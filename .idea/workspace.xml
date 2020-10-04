@@ -10,20 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Trying to fix paths">
-      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-    </list>
+    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Merge branch 'master' of https://git.heroku.com/polar-springs-31261 into master" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +33,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1iDbLDxGa7RF7Mvg8MuhG8ExbrD" />
@@ -94,7 +82,7 @@
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
       <workItem from="1601749862219" duration="12439000" />
-      <workItem from="1601780382107" duration="1820000" />
+      <workItem from="1601780382107" duration="2126000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -215,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601782201559</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Trying to fix paths">
+      <created>1601782211082</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601782211082</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge branch 'master' of https://git.heroku.com/polar-springs-31261 into master">
+      <created>1601782491154</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601782491154</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +243,8 @@
     <MESSAGE value="Added error handler" />
     <MESSAGE value="Fixed paths" />
     <MESSAGE value="Trying to fix paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix paths" />
+    <MESSAGE value="Merge branch 'master' of https://git.heroku.com/polar-springs-31261 into master" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://git.heroku.com/polar-springs-31261 into master" />
   </component>
   <component name="WindowStateProjectService">
     <state x="989" y="343" key="#PHP" timestamp="1601447937984">
@@ -288,10 +291,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="873" y="433" key="Vcs.Push.Dialog.v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601760002148" />
-    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601782193896">
+    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601782510080">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601782193896" />
+    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601782510080" />
     <state x="-2412" y="1058" width="1883" height="817" maximized="true" key="dock-window-1" timestamp="1601750093578">
       <screen x="-1920" y="1069" width="1920" height="1020" />
     </state>
