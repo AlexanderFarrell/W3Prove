@@ -22,6 +22,8 @@ class Breadcrumb
 
         $this->items = array();
 
+        array_push($this->items, new BreadcrumbItem('Home', 'home', null));
+
         foreach (CatalogManager::getCategories() as &$category){
             array_push($this->items, new BreadcrumbItem($category->getName(), 'browse', $category->getKey()));
         }

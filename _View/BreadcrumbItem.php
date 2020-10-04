@@ -22,7 +22,7 @@ class BreadcrumbItem
 
     public function Display(){
         $additional = ($this->additionalGet) ? '&category=' . $this->additionalGet : '';
-        echo '<div class="col-sm-4 buttonBackgroundColor breadcrumbItem">
+        echo '<div class="col-sm-3 buttonBackgroundColor breadcrumbItem">
 <a href="template.php?newscreen=' . $this->pageToGoTo . $additional . '">' . $this->itemLabel . '</a></div>';
     }
 }
