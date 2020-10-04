@@ -1,8 +1,8 @@
 <?php
 
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_View/HeaderPage.php');
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_App/TemplateManager.php');
-//require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '/_App/ScreenSwitcher.php');
+require_once('../_View/HeaderPage.php');
+require_once('../_App/TemplateManager.php');
+//require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '_App/ScreenSwitcher.php');
 //$header = new HeaderPage("Online Store");
 
 /*try {
