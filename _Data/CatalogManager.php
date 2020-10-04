@@ -32,11 +32,8 @@ class CatalogManager
     }
 
     public static function findProduct($name){
-        echo $name;
         foreach (static::getCategories() as $category){
-            echo $category->getName();
             foreach ($category->getItems() as $item){
-                echo $item->name;
                 if ($item->name == $name){
                     return $item;
                 }

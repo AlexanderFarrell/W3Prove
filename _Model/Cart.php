@@ -30,7 +30,6 @@ class Cart
     }
 
     public static function addItem($item){
-        echo $item->name;
         array_push($_SESSION['items'], $item);
     }
 

@@ -12,7 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Added cart logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additem.php" beforeDir="false" afterPath="$PROJECT_DIR$/additem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Data/CatalogManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Data/CatalogManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Model/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Model/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
       <workItem from="1601749862219" duration="12439000" />
-      <workItem from="1601780382107" duration="10216000" />
+      <workItem from="1601780382107" duration="11044000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -376,10 +378,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="345" key="SettingsEditor/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601758840987" />
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1601760002148">
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1601791211740">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601760002148" />
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601791211740" />
     <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601783366813">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
