@@ -10,11 +10,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Getting up and running on Heroku">
+    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Added cart logic">
+      <change afterPath="$PROJECT_DIR$/additem.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Controller/_ViewCart/ViewCartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Controller/_ViewCart/ViewCartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Controller/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Controller/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Controller/_Browse/BrowseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Controller/_Browse/BrowseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Controller/_Browse/browse.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Controller/_Browse/browse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Controller/_Home/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Controller/_Home/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Data/CatalogManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Data/CatalogManager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_Model/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Model/Cart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Model/Checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/_Model/Checkout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CS313 2\W3 Prove" />
       <recent name="C:\CS313 2\W3 Prove\_Controller\_Browse" />
       <recent name="C:\CS313 2\W3 Prove\_Controller\_Checkout" />
       <recent name="C:\CS313 2\W3 Prove\_Controller\_ConfirmationPage" />
       <recent name="C:\CS313 2\W3 Prove\_Controller\_Home" />
-      <recent name="C:\CS313 2\W3 Prove\_Controller\_ViewCart" />
     </key>
   </component>
   <component name="RunManager">
@@ -87,7 +92,7 @@
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
       <workItem from="1601749862219" duration="12439000" />
-      <workItem from="1601780382107" duration="4069000" />
+      <workItem from="1601780382107" duration="7464000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -278,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601783916033</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added cart logic">
+      <created>1601784524654</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601784524654</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +318,8 @@
     <MESSAGE value="Trying to fix paths" />
     <MESSAGE value="Merge branch 'master' of https://git.heroku.com/polar-springs-31261 into master" />
     <MESSAGE value="Getting up and running on Heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting up and running on Heroku" />
+    <MESSAGE value="Added cart logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added cart logic" />
   </component>
   <component name="WindowStateProjectService">
     <state x="989" y="343" key="#PHP" timestamp="1601447937984">
@@ -341,10 +354,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1113" y="423" key="NewPhpClassDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601754310219" />
-    <state x="1117" y="624" key="NewPhpFileDialog" timestamp="1601760265865">
+    <state x="1117" y="624" key="NewPhpFileDialog" timestamp="1601785455481">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1117" y="624" key="NewPhpFileDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601760265865" />
+    <state x="1117" y="624" key="NewPhpFileDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601785455481" />
     <state x="782" y="345" key="SettingsEditor" timestamp="1601758840988">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -357,10 +370,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601783366813" />
-    <state x="-2412" y="1058" width="1883" height="817" maximized="true" key="dock-window-1" timestamp="1601750093578">
+    <state x="-1920" y="1069" width="1936" height="1108" key="dock-window-1" timestamp="1601784892415">
       <screen x="-1920" y="1069" width="1920" height="1020" />
     </state>
-    <state x="-2412" y="1058" width="1883" height="817" maximized="true" key="dock-window-1/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601750093578" />
+    <state x="-1920" y="1069" width="1936" height="1108" key="dock-window-1/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601784892415" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1601752707344">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

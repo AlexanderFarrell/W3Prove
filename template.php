@@ -27,7 +27,6 @@ try {
         TemplateManager::GetTitleDisplay()->Display();
         ApplicationController::getCurrentScreen()->Display();
         //echo file_get_contents(ApplicationController::$currentScreen);
-        echo "This Works!!";
     ?>
     </div>
 </body>

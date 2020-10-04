@@ -1,5 +1,7 @@
 <?php
 
+require_once('_Model/Product.php');
+require_once('_Model/BrowseCategory.php');
 
 class CatalogManager
 {
@@ -27,6 +29,21 @@ class CatalogManager
         }
 
         return self::$categories;
+    }
+
+    public static function findProduct($name){
+        echo $name;
+        foreach (static::getCategories() as $category){
+            echo $category->getName();
+            foreach ($category->getItems() as $item){
+                echo $item->name;
+                if ($item->name == $name){
+                    return $item;
+                }
+            }
+        }
+
+        return null;
     }
 
     /**
