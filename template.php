@@ -1,5 +1,8 @@
 <?php
 
+if (session_id() == ''){session_start();}
+echo session_id();
+
 require_once('_View/HeaderPage.php');
 require_once('_App/TemplateManager.php');
 require_once('_View/Breadcrumb.php');

@@ -3,16 +3,18 @@
 
 class Cart
 {
-    private static $items = array();
-
     public static function TotalCost() {
         $retval = 0;
 
-        foreach (static::$items as &$item){
+        foreach (static::getItems() as &$item){
             $retval += $item->price;
         }
 
         return $retval;
+    }
+
+    public static function Initialize(){
+        static::getItems();
     }
 
     /**
@@ -20,16 +22,19 @@ class Cart
      */
     public static function getItems()
     {
-        return self::$items;
+        if ($_SESSION['items'] = ''){
+            $_SESSION['items'] = array();
+        }
+
+        return $_SESSION['items'];
     }
 
     public static function addItem($item){
-        array_push(static::$items, $item);
-        echo var_dump(static::getItems());
+        array_push($_SESSION['items'], $item);
     }
 
     public static function removeItem($item){
-        if ($key = array_search($item->name, static::$items) != false){
+        if ($key = array_search($item->name, $_SESSION['items']) != false){
             unset($item);
         }
     }
