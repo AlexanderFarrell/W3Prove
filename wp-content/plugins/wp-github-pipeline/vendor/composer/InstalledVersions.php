@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'db3e8bc19b12a7665104c3d4845fce8e19e7b69d',
+    'reference' => 'e7304cc3e84e54865aa961a876632b122d98b209',
     'name' => 'alexfarrell/w3prove',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'db3e8bc19b12a7665104c3d4845fce8e19e7b69d',
+      'reference' => 'e7304cc3e84e54865aa961a876632b122d98b209',
     ),
   ),
 );
