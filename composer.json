@@ -1,1 +1,15 @@
-{}
+{
+  "name": "alexfarrell/w3prove",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "MorphSight",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  }
+}

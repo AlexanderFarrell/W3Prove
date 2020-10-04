@@ -10,10 +10,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Fixed paths">
-      <change beforePath="$PROJECT_DIR$/.idea/W3 Prove.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/W3 Prove.iml" afterDir="false" />
+    <list default="true" id="96a7ae9a-4f43-4abe-a41d-156053fdbb72" name="Default Changelist" comment="Trying to fix paths">
+      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +31,16 @@
   </component>
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="e06de05d-f09a-4bc6-a8a1-2871acb20754" />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="composer.json" />
       </list>
     </option>
   </component>
@@ -82,7 +94,7 @@
       <workItem from="1601514672968" duration="827000" />
       <workItem from="1601733656274" duration="15261000" />
       <workItem from="1601749862219" duration="12439000" />
-      <workItem from="1601780382107" duration="138000" />
+      <workItem from="1601780382107" duration="1820000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601758594577</created>
@@ -175,7 +187,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601761685924</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Trying to fix paths">
+      <created>1601780631622</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601780631622</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Trying to fix paths">
+      <created>1601780688394</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601780688394</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Trying to fix paths">
+      <created>1601780769221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601780769221</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Trying to fix paths">
+      <created>1601782201558</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601782201559</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +240,8 @@
     <MESSAGE value="Testing" />
     <MESSAGE value="Added error handler" />
     <MESSAGE value="Fixed paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed paths" />
+    <MESSAGE value="Trying to fix paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix paths" />
   </component>
   <component name="WindowStateProjectService">
     <state x="989" y="343" key="#PHP" timestamp="1601447937984">
@@ -223,6 +264,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601736021574" />
+    <state x="1058" y="613" width="444" height="265" key="ComposerInitDialogKey" timestamp="1601781942082">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1058" y="613" width="444" height="265" key="ComposerInitDialogKey/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601781942082" />
     <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1601758785782">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -243,10 +288,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="873" y="433" key="Vcs.Push.Dialog.v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601760002148" />
-    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601758563144">
+    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601782193896">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601758563144" />
+    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601782193896" />
     <state x="-2412" y="1058" width="1883" height="817" maximized="true" key="dock-window-1" timestamp="1601750093578">
       <screen x="-1920" y="1069" width="1920" height="1020" />
     </state>
