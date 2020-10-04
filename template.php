@@ -7,12 +7,12 @@ require_once('_View/TitleDisplay.php');
 require_once('_App/ScreenSwitcher.php');
 //$header = new HeaderPage("Online Store");
 
-/*try {
+try {
     $currentScreen = ApplicationController::getCurrentScreen();
     $currentScreen->SetupScreen();
 } catch (Exception $e) {
     echo $e;
-}*/
+}
 
 ?>
 <!DOCTYPE HTML>
