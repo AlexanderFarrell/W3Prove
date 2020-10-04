@@ -2,7 +2,7 @@
 
 require_once('_View/HeaderPage.php');
 require_once('_App/TemplateManager.php');
-//require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '_App/ScreenSwitcher.php');
+require_once('_App/ScreenSwitcher.php');
 //$header = new HeaderPage("Online Store");
 
 /*try {
@@ -21,9 +21,9 @@ require_once('_App/TemplateManager.php');
 <body>
     <div class ="container">
     <?php
-        //TemplateManager::GetBreadcrumb()->Display();
-        //TemplateManager::GetTitleDisplay()->Display();
-        //ApplicationController::getCurrentScreen()->Display();
+        TemplateManager::GetBreadcrumb()->Display();
+        TemplateManager::GetTitleDisplay()->Display();
+        ApplicationController::getCurrentScreen()->Display();
         //echo file_get_contents(ApplicationController::$currentScreen);
         echo "This Works!!";
     ?>
