@@ -2,6 +2,7 @@
 
 if (session_id() == ''){session_start();}
 echo session_id();
+echo var_dump($_SESSION['items']);
 
 require_once('_View/HeaderPage.php');
 require_once('_App/TemplateManager.php');
