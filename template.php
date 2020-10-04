@@ -2,6 +2,8 @@
 
 require_once('_View/HeaderPage.php');
 require_once('_App/TemplateManager.php');
+require_once('_View/Breadcrumb.php');
+require_once('_View/TitleDisplay.php');
 require_once('_App/ScreenSwitcher.php');
 //$header = new HeaderPage("Online Store");
 
