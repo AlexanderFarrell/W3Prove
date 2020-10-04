@@ -18,7 +18,7 @@ class TemplateManager
         return static::$header;
     }
 
-    /public static function GetTitleDisplay(){
+    public static function GetTitleDisplay(){
         if (static::$titleDisplay == null){
             static::$titleDisplay = new TitleDisplay();
         }
